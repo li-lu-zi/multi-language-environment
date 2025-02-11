@@ -1,5 +1,7 @@
 <h1>Multi-Language Environment</h1>
 
+<p> Contract address: </p>
+
 <p>Welcome to the <strong>Multi-Language Environment</strong> repository! This project is designed to support the development of AI and language-processing tools that work seamlessly across multiple languages, both code and natural languages (traditional and modern).</p>
 
 <h2>Overview</h2>
