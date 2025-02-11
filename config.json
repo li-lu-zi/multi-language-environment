@@ -1,25 +1,9 @@
-Temporary commit content 13
-Temporary commit content 26
-Temporary commit content 27
-Temporary commit content 42
-Temporary commit content 43
-Temporary commit content 52
-Temporary commit content 58
-Temporary commit content 80
-Temporary commit content 108
-Temporary commit content 113
-Temporary commit content 129
-Temporary commit content 134
-Temporary commit content 143
-Temporary commit content 152
-Temporary commit content 154
-Temporary commit content 172
-Temporary commit content 178
-Temporary commit content 185
-Temporary commit content 192
-Temporary commit content 218
-Temporary commit content 221
-Temporary commit content 222
-Temporary commit content 233
-Temporary commit content 278
-Temporary commit content 288
+{
+    "language": "English",
+    "code_conversion": true,
+    "nlp_processing": true,
+    "logging": {
+        "level": "INFO",
+        "file": "log.txt"
+    }
+}
